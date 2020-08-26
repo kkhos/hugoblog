@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Developer"
-subheading: ""
-handle: "hugo-theme-codex"
+subheading: "The beginning is half of the whole."
+handle: "Powered by Hugo"
 ---
